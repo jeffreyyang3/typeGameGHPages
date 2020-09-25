@@ -1,6 +1,6 @@
 import nn from "jeffs_frontend_lib";
 import { getDiff, getBaseState } from "./game/helpers";
-
+console.log("yo");
 console.time("start");
 const x = new nn({
   el: "#app",
